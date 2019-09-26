@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomDatabaseDemo</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_surname">Enter Surname</string>
+    <string name="submitt">Submitt</string>
+    <string name="view">View</string>
+    <string name="inserted">Data inserted</string>
+    <string name="not_inserted">Enter the fields excpet id</string>
+</resources>
